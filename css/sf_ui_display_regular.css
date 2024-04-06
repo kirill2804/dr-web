@@ -1,0 +1,5 @@
+@font-face {
+	font-family: 'SF UI Display Regular';
+	src: url('../fonts/sf_ui_display_regular.woff2') format('woff2'), 
+		url('../fonts/sf_ui_display_regular.woff') format('woff')
+}
